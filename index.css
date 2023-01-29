@@ -1,3 +1,11 @@
-body{
-    background-color: rgba(137, 43, 226, 0.596);
+body{ 
+    background-color: rgba(238, 215, 9, 0.589);
+    
 }
+h1{
+    color: blue
+}
+h1:hover {
+    color: darkgreen;
+}
+b{ color:rgba(43, 226, 73, 0.795)}
